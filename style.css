@@ -1,0 +1,22 @@
+#RIS{
+	text-align: center;
+}
+li{
+	list-style: none;
+ font-family: cursive;
+	float:right;
+	top:10px;
+	right:30px;
+	cursor:pointer;
+	color:black;
+	display:inline;
+	margin-left: 10px;
+}
+h2{
+	text-align: center;
+}
+#starter{
+	background-color: aqua;
+	color:white;
+}
+	
